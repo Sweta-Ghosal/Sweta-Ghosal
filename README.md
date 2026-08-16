@@ -20,15 +20,14 @@ I enjoy learning new technologies, building applications, solving programming pr
 * 🐍 Python
 * 🔵 C
 
-### 🎨 Frontend
+### 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 * 🌐 HTML
 * 🎨 CSS
-* ⚛️ React
 
 ### ⚙️ Backend
 
@@ -42,12 +41,10 @@ I enjoy learning new technologies, building applications, solving programming pr
 ### 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgresql,prisma" />
 </p>
 
 * 🐘 PostgreSQL
-* 🍃 MongoDB
-* 🐬 MySQL
 * 🔷 Prisma
 
 ### 🔧 Tools
@@ -66,9 +63,8 @@ I enjoy learning new technologies, building applications, solving programming pr
 ## 🌱 Currently Learning
 
 * 🚀 Full-Stack Development
-* 🟨 Advanced JavaScript
+* 🟨 JavaScript
 * 🟢 Node.js
-* ⚛️ React
 * 🧠 Data Structures & Algorithms
 * 🗄️ Database Management
 * 🔗 REST APIs
